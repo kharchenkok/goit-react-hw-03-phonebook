@@ -1,0 +1,23 @@
+
+.form__style{
+
+    padding-top: 10px;
+
+
+}
+.input__style{
+    border: 2px solid rgb(119, 204, 238);
+    height: 30px;
+    margin-right: 10px;
+    max-width: 300px;
+    margin-top: 10px;
+
+}
+
+.lable__style{
+    font-size: 20px;
+    display: flex;
+        flex-direction: column;
+
+
+}
